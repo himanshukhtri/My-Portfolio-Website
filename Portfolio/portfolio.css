@@ -22,6 +22,12 @@ body {
     font-size: 20px;
 }
 
+.nav-left, .nav-right {
+    display: flex;
+    gap: 15px;
+
+}
+
 .nav-item a {
     color: white;
     text-decoration: none;
